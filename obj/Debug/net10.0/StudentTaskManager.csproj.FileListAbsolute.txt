@@ -1,0 +1,14 @@
+/Users/simaosilva/VSC/StudentTaskManager/bin/Debug/net10.0/StudentTaskManager
+/Users/simaosilva/VSC/StudentTaskManager/bin/Debug/net10.0/StudentTaskManager.deps.json
+/Users/simaosilva/VSC/StudentTaskManager/bin/Debug/net10.0/StudentTaskManager.runtimeconfig.json
+/Users/simaosilva/VSC/StudentTaskManager/bin/Debug/net10.0/StudentTaskManager.dll
+/Users/simaosilva/VSC/StudentTaskManager/bin/Debug/net10.0/StudentTaskManager.pdb
+/Users/simaosilva/VSC/StudentTaskManager/obj/Debug/net10.0/StudentTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaosilva/VSC/StudentTaskManager/obj/Debug/net10.0/StudentTaskManager.AssemblyInfoInputs.cache
+/Users/simaosilva/VSC/StudentTaskManager/obj/Debug/net10.0/StudentTaskManager.AssemblyInfo.cs
+/Users/simaosilva/VSC/StudentTaskManager/obj/Debug/net10.0/StudentTaskManager.csproj.CoreCompileInputs.cache
+/Users/simaosilva/VSC/StudentTaskManager/obj/Debug/net10.0/StudentTaskManager.dll
+/Users/simaosilva/VSC/StudentTaskManager/obj/Debug/net10.0/refint/StudentTaskManager.dll
+/Users/simaosilva/VSC/StudentTaskManager/obj/Debug/net10.0/StudentTaskManager.pdb
+/Users/simaosilva/VSC/StudentTaskManager/obj/Debug/net10.0/StudentTaskManager.genruntimeconfig.cache
+/Users/simaosilva/VSC/StudentTaskManager/obj/Debug/net10.0/ref/StudentTaskManager.dll
