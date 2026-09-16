@@ -1,0 +1,15 @@
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/bin/Debug/net10.0/Task02_Paradigms
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/bin/Debug/net10.0/Task02_Paradigms.deps.json
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/bin/Debug/net10.0/Task02_Paradigms.runtimeconfig.json
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/bin/Debug/net10.0/Task02_Paradigms.dll
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/bin/Debug/net10.0/Task02_Paradigms.pdb
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/obj/Debug/net10.0/Task02_Paradigms.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/obj/Debug/net10.0/Task02_Paradigms.AssemblyInfoInputs.cache
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/obj/Debug/net10.0/Task02_Paradigms.AssemblyInfo.cs
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/obj/Debug/net10.0/Task02_Paradigms.csproj.CoreCompileInputs.cache
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/obj/Debug/net10.0/Task02_Paradigms.sourcelink.json
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/obj/Debug/net10.0/Task02_Paradigms.dll
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/obj/Debug/net10.0/refint/Task02_Paradigms.dll
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/obj/Debug/net10.0/Task02_Paradigms.pdb
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/obj/Debug/net10.0/Task02_Paradigms.genruntimeconfig.cache
+/Users/simaosilva/VSC/StudentTaskManager/Task02_Paradigms/obj/Debug/net10.0/ref/Task02_Paradigms.dll
