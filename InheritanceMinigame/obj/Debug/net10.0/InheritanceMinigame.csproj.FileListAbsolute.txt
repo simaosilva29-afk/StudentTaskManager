@@ -1,0 +1,15 @@
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/bin/Debug/net10.0/InheritanceMinigame
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/bin/Debug/net10.0/InheritanceMinigame.deps.json
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/bin/Debug/net10.0/InheritanceMinigame.runtimeconfig.json
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/bin/Debug/net10.0/InheritanceMinigame.dll
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/bin/Debug/net10.0/InheritanceMinigame.pdb
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/obj/Debug/net10.0/InheritanceMinigame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/obj/Debug/net10.0/InheritanceMinigame.AssemblyInfoInputs.cache
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/obj/Debug/net10.0/InheritanceMinigame.AssemblyInfo.cs
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/obj/Debug/net10.0/InheritanceMinigame.csproj.CoreCompileInputs.cache
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/obj/Debug/net10.0/InheritanceMinigame.sourcelink.json
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/obj/Debug/net10.0/InheritanceMinigame.dll
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/obj/Debug/net10.0/refint/InheritanceMinigame.dll
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/obj/Debug/net10.0/InheritanceMinigame.pdb
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/obj/Debug/net10.0/InheritanceMinigame.genruntimeconfig.cache
+/Users/simaosilva/VSC/StudentTaskManager/InheritanceMinigame/obj/Debug/net10.0/ref/InheritanceMinigame.dll
